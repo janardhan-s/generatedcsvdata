@@ -1,0 +1,15 @@
+#,Issue key,Issue id,Custom field (Epic Link),Ename,,,,,Assignee,Custom field (Story Points),Original Estimate,Time Spent,Remaining Estimate,Sprint,Sprint2,Sprint3,Summary
+1,PCS-27974,594882,PCS-28018,May21-Performance,,,,,balachandras,,57600,0,57600,PCS-2122,,,QA: Testing the throughput with standard/less packet sizes/varied user load in ESP mode
+2,PCS-27972,594870,PCS-28018,May21-Performance,,,,,balachandras,4,57600,0,57600,PCS-2122,,,QA:SM HW : ESP Max Users/Tunnel Setup count 
+3,PCS-27539,593251,PCS-28018,May21-Performance,,,,,balachandras,4,57600,0,57600,PCS-2122,,,Planning to validate RAID and LVM testing
+4,PCS-25735,583642,PCS-28018,May21-Performance,,,,,balachandras,4,57600,43200,57600,PCS-2122,PCS-2112,,QA: Testing the HW-RAID controller functionality
+5,PCS-28004,594947,PCS-28042,May21-ISA8000x-Support,,,,,balajit,4,57600,,57600,PCS-2122,,,"SM HW - ISA8000F Platform Testing, Code Review"
+6,PCS-28003,594946,PCS-28042,May21-ISA8000x-Support,,,,,balajit,4,57600,,57600,PCS-2122,,,SM HW - ISA8000F Platform addition - License and UI Changes
+7,PCS-28002,594945,PCS-28042,May21-ISA8000x-Support,,,,,balajit,6,86400,82800,3600,PCS-2122,,,SM HW - ISA8000F Platform addition - Platform changes
+8,PCS-27971,594869,PCS-28017,May21-Deployment-Phase2,,,,,kalaimani.k,4,57600,57600,0,PCS-2122,,,SM-HW : ISA8000 - Make Coreboot/init changes as platform specific  
+9,PCS-27007,590473,PCS-28017,May21-Deployment-Phase2,,,,,kalaimani.k,8,115200,28800,86400,PCS-2118,PCS-2120,PCS-2122,SM-HW: ISA8000 Upgrade and Rollover Confirmation with LVM 
+10,PCS-27969,594853,PCS-28017,May21-Deployment-Phase2,,,,,kalaimani.k,4,57600,,57600,PCS-2122,,,LVM: Support and bug fixes
+11,PCS-27566,593427,PCS-28018,May21-Performance,,,,,karthikr,4,28800,,28800,PCS-2122,,,QA: SMHW: Tunnel setup rate test for 25k Users on SSL mode 
+12,PCS-27538,593250,PCS-28018,May21-Performance,,,,,karthikr,4,57600,,57600,PCS-2122,,,QA: SM HW : Perform throughput tests with IMIX traffic(SSL)
+13,PCS-27978,594893,PCS-28018,May21-Performance,,,,,karthikr,4,57600,,57600,PCS-2122,,,"QA: SM HW : SSL Max Throughput (25k Users/Tunnels, 1350 bytes)"
+14,PCS-27975,594885,PCS-28018,May21-Performance,,,,,karthikr,2,28800,14400,14400,PCS-2122,,,QA: Build image from Build plan
